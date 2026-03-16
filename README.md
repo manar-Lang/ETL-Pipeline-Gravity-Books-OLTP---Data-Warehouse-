@@ -436,7 +436,14 @@ All rights reserved — you may not use, copy, modify, or distribute this code w
 
 ---
 
+👨‍💻 Author
+Manar Altyp
+Data Analyst • BI Developer • Visualization Specialist
 
+🌐 GitHub |
+
+Project completed for: IMDb Movies Dashboard – Data Analysis & Visualization
+Completion Date: March 6, 2026
 ---
 
 ## 📬 Future Improvements
