@@ -436,15 +436,6 @@ All rights reserved — you may not use, copy, modify, or distribute this code w
 
 ---
 
-## 👨‍💻 Author
-
-**Abdulrahman Khalifa**  
-*Data Engineer • ETL Specialist • SQL Developer*
-
-🌐 [GitHub](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-*Assignment completed for: ETL Assignment – Gravity Books (OLTP → Data Warehouse)*  
-*Due: March 6, 2026*
 
 ---
 
@@ -505,9 +496,9 @@ Please ensure your code follows PEP 8 guidelines and includes appropriate docume
 
 For questions, suggestions, or feedback about this project:
 
-**Abdulrahman Khalifa**
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🐙 GitHub: [yourusername](https://github.com/yourusername)
+**Manar ALtyp**
+📧 Email: manaraltyp44444@gmail.com
+🐙 GitHub: [Manar Altyp](https://github.com/manar-Lang)
 
 ---
 
